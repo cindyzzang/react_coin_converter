@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react_coin_converter/static/css/main.e17d5485.css",
-    "main.js": "/react_coin_converter/static/js/main.c6520fe0.js",
-    "index.html": "/react_coin_converter/index.html",
-    "main.e17d5485.css.map": "/react_coin_converter/static/css/main.e17d5485.css.map",
-    "main.c6520fe0.js.map": "/react_coin_converter/static/js/main.c6520fe0.js.map"
+    "main.css": "/react_coin_converter.git/static/css/main.e17d5485.css",
+    "main.js": "/react_coin_converter.git/static/js/main.c6520fe0.js",
+    "index.html": "/react_coin_converter.git/index.html",
+    "main.e17d5485.css.map": "/react_coin_converter.git/static/css/main.e17d5485.css.map",
+    "main.c6520fe0.js.map": "/react_coin_converter.git/static/js/main.c6520fe0.js.map"
   },
   "entrypoints": [
     "static/css/main.e17d5485.css",
